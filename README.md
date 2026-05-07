@@ -8,7 +8,7 @@ Hola, mi nombre es Liam, tengo 24 años y soy estudiante del ciclo de ASIR (Admi
 
 ## 🎯 Objetivo profesional
 
-Describe qué tipo de trabajo buscas: Mi objetivo es trabajar como administrador de sistemas o técnico de redes, adquiriendo experiencia en entornos reales y mejorando continuamente mis habilidades. 
+Mi objetivo es trabajar como administrador de sistemas o técnico de redes, adquiriendo experiencia en entornos reales y mejorando continuamente mis habilidades. 
 
 ---
 
