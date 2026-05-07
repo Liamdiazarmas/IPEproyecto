@@ -2,7 +2,6 @@
 
 ## 👤 Liam Díaz Armas
 
-Escribe una breve descripción sobre ti:
 Hola, mi nombre es Liam, tengo 24 años y soy estudiante del ciclo de ASIR (Administración de sistemas informáticos en red) con interés en redes, sistemas y ciberseguridad. Me estoy formando mediante proyectos prácticos y aprendizaje continuo. Lo que más me interesa de este mundo es lo amplio que puede ser las nuevas tecnologías en base a lo que pueden llegar a hacer y cómo evoluciona.
 
 ---
@@ -14,8 +13,6 @@ Describe qué tipo de trabajo buscas: Mi objetivo es trabajar como administrador
 ---
 
 ## 🛠️ Tecnologías y herramientas
-
-Lista lo que sabes usar:
 
 * Sistemas operativos: Linux (Ubuntu), Windows, Windows Server
 * Redes: Direccionamiento IP, configuración básica de redes, VLANs, Cisco Packet Tracer
