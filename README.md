@@ -1,19 +1,58 @@
-﻿# 💻 Portfolio Técnico (GitHub)
+# 💻 Portfolio Técnico - ASIR
+
+## 👤 Sobre mí
+
+Escribe una breve descripción sobre ti:
+
+* Quién eres
+* Qué estás estudiando
+* Qué te interesa dentro de la informática
+
+Ejemplo:
+
+> Soy estudiante de Administración de Sistemas Informáticos en Red (ASIR) con interés en redes, sistemas y ciberseguridad. Me estoy formando mediante proyectos prácticos y aprendizaje continuo.
+
+---
+
+## 🎯 Objetivo profesional
+
+Describe qué tipo de trabajo buscas:
+
+Ejemplo:
+
+> Mi objetivo es trabajar como administrador de sistemas o técnico de redes, adquiriendo experiencia en entornos reales y mejorando continuamente mis habilidades.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+Lista lo que sabes usar:
+
+* Sistemas operativos:
+* Redes:
+* Virtualización:
+* Lenguajes / scripting:
+* Herramientas:
+
+Ejemplo:
+
+* Linux, Windows Server
+* Cisco Packet Tracer
+* VirtualBox
+* Bash
+
+---
 
 ## 📂 Proyectos
 
 ### 🔹 Proyecto 1: (Nombre del proyecto)
 
 **Descripción:**
-Explica brevemente qué hace el proyecto.
+Explica qué hiciste.
 
-**Código:**
-Enlace al repositorio o carpeta del proyecto.
+## **Tecnologías usadas:**
 
-**Tecnologías utilizadas:**
-- 
-- 
-- 
+## **Qué aprendí:**
 
 ---
 
@@ -21,12 +60,9 @@ Enlace al repositorio o carpeta del proyecto.
 
 **Descripción:**
 
-**Código:**
+## **Tecnologías usadas:**
 
-**Tecnologías utilizadas:**
-- 
-- 
-- 
+## **Qué aprendí:**
 
 ---
 
@@ -34,29 +70,38 @@ Enlace al repositorio o carpeta del proyecto.
 
 **Descripción:**
 
-**Código:**
+## **Tecnologías usadas:**
 
-**Tecnologías utilizadas:**
-- 
-- 
-- 
+## **Qué aprendí:**
 
 ---
 
-## 📌 Indicaciones
+## 📈 Formación
 
-- Incluye mínimo 2-3 proyectos
-- Explica claro qué hiciste
-- Añade el código o enlace
-- Especifica siempre las tecnologías usadas
+* Ciclo: ASIR (en curso)
+* ## Cursos adicionales:
+
+  *
 
 ---
 
-## 🚀 Ejemplo de tecnologías
+## 🌍 Idiomas
 
-- Linux
-- VirtualBox
-- Cisco Packet Tracer
-- Bash
-- Ubuntu Server
+* Español: Nativo
+* Inglés: (nivel)
+
+---
+
+## 📬 Contacto
+
+* Email:
+* LinkedIn:
+
+---
+
+## 🚀 Nota final
+
+Puedes escribir una pequeña conclusión:
+
+> Este portfolio refleja mi aprendizaje práctico y mi evolución como futuro profesional del sector IT.
 
