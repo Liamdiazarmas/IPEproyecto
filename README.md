@@ -1,4 +1,4 @@
-# 💻 Portfolio Técnico - ASIR 1º Año
+# Portfolio Técnico - ASIR 1º Año
 
 ## 👤 Liam Díaz Armas
 
@@ -6,13 +6,13 @@ Hola, mi nombre es Liam, tengo 24 años y soy estudiante del ciclo de ASIR (Admi
 
 ---
 
-## 🎯 Objetivo profesional
+##  Objetivo profesional
 
 Mi objetivo es trabajar como administrador de sistemas o técnico de redes, adquiriendo experiencia en entornos reales y mejorando continuamente mis habilidades. 
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 * Sistemas operativos: Linux (Ubuntu), Windows, Windows Server
 * Redes: Direccionamiento IP, configuración básica de redes, VLANs, Cisco Packet Tracer
@@ -22,7 +22,7 @@ Mi objetivo es trabajar como administrador de sistemas o técnico de redes, adqu
 
 ---
 
-## 📂 Proyectos
+##  Proyectos
 
 ### 🔹 Proyecto 1: Diseño de red en Cisco Packet Tracer
 
@@ -55,19 +55,19 @@ A cómo crear paso a paso un modelo de página web desde un inicio dando lo bás
 
 ---
 
-## 🌍 Idiomas
+##  Idiomas
 
 * Español: Nativo
 * Inglés: (nivel medio) En objetivo de mejora
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 * Email:liamdiazarmas2001@gmail.com
 * LinkedIn:www.linkedin.com/in/liam-díaz-armas-014559402
 
 ---
 
-## 🚀 Nota final
+##  Nota final
 Este portfolio refleja mi aprendizaje práctico y mi evolución como futuro profesional del sector IT. Estoy motivado para seguir creciendo, aprender nuevas tecnologías y aportar valor en el ámbito de la administración de sistemas y redes.
