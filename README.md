@@ -1,10 +1,9 @@
-# 💻 Portfolio Técnico - ASIR
+# 💻 Portfolio Técnico - ASIR 1º Año
 
-## 👤 Sobre mí
+## 👤 Liam Díaz Armas
 
 Escribe una breve descripción sobre ti:
-
-* Quién eres
+Hola, mi nombre es Liam, tengo 24 años y soy estudiante del
 * Qué estás estudiando
 * Qué te interesa dentro de la informática
 
