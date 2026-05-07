@@ -46,7 +46,7 @@ Un proyecto de la asignatura de LND que consistía en crear una página web bás
 A cómo crear paso a paso un modelo de página web desde un inicio dando lo básico de HTML y CSS.
 ---
 
-## 📈 Formación
+## Formación
 
 * Ciclo: ASIR (en curso)
 * ## Cursos adicionales:
